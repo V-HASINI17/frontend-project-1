@@ -1,0 +1,17 @@
+body {
+  background-image: url("cal.jpg");
+  background-repeat: no-repeat; 
+  background-size: cover;        
+  text-align: center;
+  font-family: Arial;
+}
+
+input {
+  padding: 5px;
+  margin: 5px;
+}
+
+button {
+  padding: 8px 12px;
+  margin: 5px;
+}
